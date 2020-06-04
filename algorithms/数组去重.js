@@ -19,3 +19,5 @@ function uniqueArray(arr) {
   return temp;
 }
 console.log(uniqueArray(arr))
+
+
